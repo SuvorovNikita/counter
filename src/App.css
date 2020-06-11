@@ -1,0 +1,25 @@
+.App {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.wrapperSettings {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.error {
+  background: coral;
+}
+.color{
+    color: coral;
+}
+input {
+    margin-bottom: 10px;
+}
+span{
+    margin-bottom: 5px;
+}
